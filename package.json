@@ -1,0 +1,13 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Generate resume as Word document",
+  "main": "resume.js",
+  "scripts": {
+    "start": "node resume.js",
+    "build": "node resume.js"
+  },
+  "dependencies": {
+    "docx": "^9.5.0"
+  }
+}
