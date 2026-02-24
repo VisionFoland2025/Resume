@@ -5,10 +5,9 @@
 
 This app allows you to generate two resumes. To do this, type the following in the terminal: 
 
-node resume.js 
-
-# OR 
-
+```bash
+node resume.js
 node resume_idea.js
+```
 
 In docs you can see templates.
